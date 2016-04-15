@@ -12,6 +12,6 @@ OneDriveなどのマイクロソフトのクラウドサービスも利用でき
   - ![マイクロソフトアカウントの作成ページ](https://github.com/tanakaedu/dat161-haru/blob/master/00_microsoftaccount.gif "マイクロソフトアカウントの作成ページ")
 - よく使うPC用のメールアドレスがあればそれを利用。PC用のメールアドレスを持たない場合、Hotmailアカウントを作成する
 
-
+<a href="http://micchan.com" target="_blank">Micchan Lab</a>
 
 
