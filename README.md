@@ -8,7 +8,7 @@
 OneDriveなどのマイクロソフトのクラウドサービスも利用できるようになる。積極的に活用しよう。
 
 - 以下のサイトをスマートフォンで開く。
-  - https://www.microsoft.com/ja-jp/msaccount/signup/default.aspx
+  - <a href='https://www.microsoft.com/ja-jp/msaccount/signup/default.aspx' target='_blank'>https://www.microsoft.com/ja-jp/msaccount/signup/default.aspx</a>
   - ![マイクロソフトアカウントの作成ページ](https://github.com/tanakaedu/dat161-haru/blob/master/00_microsoftaccount.gif "マイクロソフトアカウントの作成ページ")
 - よく使うPC用のメールアドレスがあればそれを利用。PC用のメールアドレスを持たない場合、Hotmailアカウントを作成する
 
