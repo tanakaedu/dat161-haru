@@ -1,5 +1,11 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
+# 2回目(4/29)
+- [CAREER DESIGN CENTER まつもとゆきひろ氏が「生涯プログラマー」でやっていきたい若手に贈る3つの言葉](http://type.jp/et/feature/243?utm_content=buffer8884b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- Visual C# 書く教科書
+- ドットインストールでUnityの練習
+
+
 # 1回目(4/22)
 - [1回目の講義資料をダウンロード](https://github.com/tanakaedu/dat161-haru/blob/master/01/00_2016.1.pptx?raw=true)
 
