@@ -3,6 +3,7 @@
 # 2回目(4/29)
 - [CAREER DESIGN CENTER まつもとゆきひろ氏が「生涯プログラマー」でやっていきたい若手に贈る3つの言葉](http://type.jp/et/feature/243?utm_content=buffer8884b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [東京インディーズ Meetup](https://www.facebook.com/events/264884527192215/)
+- [Actcat 採用情報](http://www.actcat.co.jp/jobs)
 - Visual C# 書く教科書
 - ドットインストールでUnityの練習
 
