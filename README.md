@@ -9,6 +9,7 @@
   - [Facebook](https://www.facebook.com/events/264884527192215/)
   - [デジゲー博2016](http://digigame-expo.org/)
 - [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
+- [さいたまゲームス](https://atnd.org/events/77043)
 - ドットインストールでUnityの練習
 
 
