@@ -1,5 +1,9 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
+# 3回目(5/13)
+- [LIG INC. Webサービス同士を連携できる「IFTTT」と自作IoTデバイスを繋いで生活を便利にしてみた](http://liginc.co.jp/263899)
+
+
 # 2回目(4/29)
 - Visual C# 書く教科書
 - [CAREER DESIGN CENTER まつもとゆきひろ氏が「生涯プログラマー」でやっていきたい若手に贈る3つの言葉](http://type.jp/et/feature/243?utm_content=buffer8884b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
