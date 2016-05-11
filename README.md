@@ -1,9 +1,10 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # 3回目(5/13)
+- [5/24 自作キャラのゲーム作成を無料体験【Unity/iClone/Maya】](https://kenjin.unity3d.jp/events/show/365)
 - [LIG INC. Webサービス同士を連携できる「IFTTT」と自作IoTデバイスを繋いで生活を便利にしてみた](http://liginc.co.jp/263899)
 - [Unity 5.4 パブリックベータ版](http://blogs.unity3d.com/jp/2016/03/15/enhanced-visuals-better-performance-and-more-the-unity-5-4-public-beta-is-ready/)
-
+- [日本科学未来館 GAME ON](http://www.fujitv.co.jp/events/gameon/)
 
 # 2回目(4/29)
 - Visual C# 書く教科書
