@@ -5,7 +5,11 @@
   - 2016年5月29日（日）14:00～16:00（開場：13:30～）
 - [LIG INC. Webサービス同士を連携できる「IFTTT」と自作IoTデバイスを繋いで生活を便利にしてみた](http://liginc.co.jp/263899)
 - [Unity 5.4 パブリックベータ版](http://blogs.unity3d.com/jp/2016/03/15/enhanced-visuals-better-performance-and-more-the-unity-5-4-public-beta-is-ready/)
-- if
+- if文
+
+## 課題
+- 次回までにp10の課題「違う型の変数への代入」を調べて、GitHubのWikiにまとめておく
+
 
 # 4回目(5/20)
 - 変数の学習-動的に動くプログラム-
