@@ -9,13 +9,22 @@
 
 ## 課題
 - 次回までにp10の課題「違う型の変数への代入」を調べて、GitHubのWikiにまとめておく
-  - https://github.com を開いて、Sign inする
-  - 右上の[+]を押して、[New Repository]を選択
-  - Repository name欄に、 gp161-haru と入力
-  - Description欄に、「ゲームプログラミング1年講義用」と入力
-  - [Initialize this repository with a README]にチェックを入れる
-  - 上記以外はそのままで、[Create repository]ボタンを押す
-  - 
+  - 手順1 リポジトリを作成
+    - Firefoxで、https://github.com を開いて、Sign inする
+    - 右上の[+]を押して、[New Repository]を選択
+    - Repository name欄に、 gp161-haru と入力
+    - Description欄に、「ゲームプログラミング1年春用」と入力
+    - [Initialize this repository with a README]にチェックを入れる
+    - 上記以外はそのままで、[Create repository]ボタンを押す
+  - 手順2 以上でリポジトリが作成される。続いて、wikiを作成
+    - 画面上のメニューから[wiki]をクリック
+    - [Create the first page]を押す
+    - [Create new page]の下の[Home]を消して、「違う型の変数への代入」を入力
+    - 下のテキストボックスの[Welcome to・・・」の行を削除して、課題の内容を記入する
+    - 書き方は、github マークダウン]などで検索すると、さまざまな記述があるのでそれを利用してもよい
+    - 書き終わったら、画面右下の[Save Page]ボタンを押して完成
+以上。
+
 
 # 4回目(5/20)
 - 変数の学習-動的に動くプログラム-
