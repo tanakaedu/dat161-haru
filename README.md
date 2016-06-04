@@ -1,10 +1,23 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
+# 7回目(6/10)
+- 前回の復習
+  - 跳ね回るラベルを作る
+  - マウスが重なるとタイマーが止まる
+  - 経過フレーム数の表示
+- 配列
+- 繰り返し
+
+## 話題提供
+- [染谷翔 Unityスキルがなくても使える短期間ゲーム開発のポイント](https://speakerdeck.com/unitydojo/gemuziyamuyazu-ye-zhi-zuo-dui-ce-unitysukiruganakutemoshi-eruduan-qi-jian-gemukai-fa-falsepointo)
+
+## 前回の課題のチェック
+- GitHub DesktopのSign in
+- 変数の型の変換リスト
+
+
 # 6回目(6/3)
 - 前回の復習
-- 前回の課題のチェック
-  - GitHub DesktopのSign in
-  - 変数の型の変換リスト
 - C#の講義
   - GitHub Desktopで、リポジトリを作成
   - マウス入力
