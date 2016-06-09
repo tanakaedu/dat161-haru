@@ -24,6 +24,7 @@
 # 12回目(7/15)
 - 夏休みに向けて、企画を考える
 - [染谷翔 Unityスキルがなくても使える短期間ゲーム開発のポイント](https://speakerdeck.com/unitydojo/gemuziyamuyazu-ye-zhi-zuo-dui-ce-unitysukiruganakutemoshi-eruduan-qi-jian-gemukai-fa-falsepointo)
+- code.org
 
 ## 夏休みの宿題
 - ミニゲームを１本完成させる
