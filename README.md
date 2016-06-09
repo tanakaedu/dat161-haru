@@ -15,13 +15,26 @@
 - 沢山のラベルを跳ね返らせる
 
 
-## 話題提供
-- [染谷翔 Unityスキルがなくても使える短期間ゲーム開発のポイント](https://speakerdeck.com/unitydojo/gemuziyamuyazu-ye-zhi-zuo-dui-ce-unitysukiruganakutemoshi-eruduan-qi-jian-gemukai-fa-falsepointo)
-
 
 # 8回目(6/17)
 - オプション(或いは分身)を作ってみよう
 - ゲームをデザインする
+
+# 12回目(7/15)
+- 夏休みに向けて、企画を考える
+- [染谷翔 Unityスキルがなくても使える短期間ゲーム開発のポイント](https://speakerdeck.com/unitydojo/gemuziyamuyazu-ye-zhi-zuo-dui-ce-unitysukiruganakutemoshi-eruduan-qi-jian-gemukai-fa-falsepointo)
+
+## 夏休みの宿題
+- ミニゲームを１本完成させる
+  - 公開可能であること
+    - 全てのリソースが著作権的に問題がないこと
+    - 公序良俗に反しない
+    - 過度なエロ禁止
+    - 基準は、就職活動の時に使えるもの
+  - AssetStoreを活用するとよい
+  - 著作権に問題がなければ、シナリオライターやその他プロジェクトを活用してもよい
+- 夏休み明けにプレゼンテーションを行ってもらうので、パワーポイントなどの資料を作成しておく
+  - 持ち時間は一人10分
 
 ----
 
