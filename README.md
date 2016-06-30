@@ -5,7 +5,8 @@
   - https://github.com/tanakaedu/dat161-haru/wiki/0624yoketoru-unity%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86
 - [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160624.zip)
   - 上記をプログラムで開いて解凍する
-  - 自分のプロジェクトフォルダーに上書きする
+  - 解凍してできたフォルダー「yoketoru」を、[ドキュメント]>[Visual Studio 2015]>[Projects]フォルダーに移動
+  - 移動したフォルダー内の[yoketoru.sln]をダブルクリックして起動
 
 ## yoketoru/unity 開発
 - キャラクターを管理する変数の作成
