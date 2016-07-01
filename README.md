@@ -1,16 +1,25 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
-# 10回目(7/1)
-- 前回の作業
-  - https://github.com/tanakaedu/dat161-haru/wiki/0624yoketoru-unity%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86
-- [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160624.zip)
-  - 上記をプログラムで開いて解凍する
-  - 解凍してできたフォルダー「yoketoru」を、[ドキュメント]>[Visual Studio 2015]>[Projects]フォルダーに移動
+# 11回目(7/8)
+- [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160701.zip)
+  - 上記をプログラムで開く
+  - ウィンドウが開いたら、[ドキュメント]>Visual Studio 2015]>[Projects]フォルダーにドラッグ＆ドロップ
+  - 上書きしてよい
   - 移動したフォルダー内の[yoketoru.sln]をダブルクリックして起動
-
-## yoketoru/unity 開発
-- キャラクターを管理する変数の作成
-- キャラクターの表示
+- ドキュメント
+  - [キャラクターの管理について](https://github.com/tanakaedu/yoketoru/wiki/0701%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E7%AE%A1%E7%90%86)
+  - [作業手順](https://github.com/tanakaedu/yoketoru/wiki/0701%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86)
+- Unity版
+  - \\LANDISK-A601\disk\2016年\学生用フォルダー\ゲームプログラム１年\yoketoru-unity に10回目のものがある
+  - [作業手順](https://github.com/tanakaedu/dat161-haru/wiki/0701yoketoru-unity%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86)
+----
+- 残りの作業
+  - アイテムの実装
+  - アイテムとの当たり判定
+  - 敵の実装
+  - 敵との当たり判定
+  - タイムの実装
+  - タイトル、ゲームオーバー、クリア画面の実装
 
 
 ## 課題(予定)「オプション(或いは分身)を作ってみよう」
@@ -60,6 +69,19 @@
   - 持ち時間は一人10分
 
 ----
+
+# 10回目(7/1)
+- [9回目に作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160624.zip)
+  - 上記をプログラムで開く
+  - ウィンドウが開いたら、[ドキュメント]>Visual Studio 2015]>[Projects]フォルダーにドラッグ＆ドロップ
+  - 上書きしてよい
+  - 移動したフォルダー内の[yoketoru.sln]をダブルクリックして起動
+- [9回目のyoketoru-unityの作業](https://github.com/tanakaedu/dat161-haru/wiki/0624yoketoru-unity%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86)
+
+## yoketoru/unity 開発
+- キャラクターを管理する変数の作成
+- キャラクターの表示
+
 
 # 9回目(6/24)
 ## yoketoru/unity 開発
