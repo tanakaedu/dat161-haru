@@ -65,8 +65,9 @@
     - 公序良俗に反しない
     - 過度なエロ禁止
     - 基準は、就職活動の時に使えるもの
-  - AssetStoreを活用するとよい
-  - 著作権に問題がなければ、シナリオライターやその他プロジェクトを活用してもよい
+  - Unityの場合、AssetStoreを活用するとよい
+  - 著作権に問題がなければ、シナリオライターやその他プロジェクトを活用してもよい(Jokerスクリプトなど)
+  - プログラミングが厳しい人はこれを調べる > [プログラミングの必要なし！簡単にスマホアプリが開発できるツール9選](https://freelance.levtech.jp/guide/detail/38/?utm_content=bufferf4992&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - 夏休み明けにプレゼンテーションを行ってもらうので、パワーポイントなどの資料を作成しておく
   - 持ち時間は一人10分
 
