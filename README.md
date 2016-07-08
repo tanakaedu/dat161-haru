@@ -1,35 +1,35 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # 12回目(7/15)
-- [前回作ったもの]()
+## 前回の資料
+- [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160708.zip)
 - [前回の資料](https://github.com/tanakaedu/yoketoru/wiki/0708%E6%95%B5%E3%81%A8%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90)
-
-# 11回目(7/8)
-- https://developer.nintendo.com/
-- [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160701.zip)
-  - 上記をプログラムで開く
-  - ウィンドウが開いたら、[ドキュメント]>Visual Studio 2015]>[Projects]フォルダーにドラッグ＆ドロップ
-  - 上書きしてよい
-  - 移動したフォルダー内の[yoketoru.sln]をダブルクリックして起動
-- ドキュメント
-  - [キャラクターの管理について](https://github.com/tanakaedu/yoketoru/wiki/0701%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E7%AE%A1%E7%90%86)
-  - [作業手順](https://github.com/tanakaedu/yoketoru/wiki/0701%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86)
 - Unity版
-  - \\LANDISK-A601\disk\2016年\学生用フォルダー\ゲームプログラム１年\yoketoru-unity に10回目のものがある
-  - [作業手順](https://github.com/tanakaedu/dat161-haru/wiki/0701yoketoru-unity%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86)
+  - \\LANDISK-A601\disk\2016年\学生用フォルダー\ゲームプログラム１年\yoketoru-unity に11回目のものがある
+  - [作業手順](https://github.com/tanakaedu/dat161-haru/wiki/0708%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%E7%A7%BB%E5%8B%95)
 
-----
+## 今回の作業
+- Unity版のyoketoruを完成
+- 参考ページの紹介
+  - [ひよこのたまご](http://hiyotama.hatenablog.com/)
+  - code.org
+- 夏休みに向けて、企画を考える
+  - [染谷翔 Unityスキルがなくても使える短期間ゲーム開発のポイント](https://speakerdeck.com/unitydojo/gemuziyamuyazu-ye-zhi-zuo-dui-ce-unitysukiruganakutemoshi-eruduan-qi-jian-gemukai-fa-falsepointo)
 
-- 残りの作業
-  - アイテムの実装
-  - アイテムとの当たり判定
-  - 敵の実装
-  - 敵との当たり判定
-  - タイムの実装
-  - タイトル、ゲームオーバー、クリア画面の実装
+## 夏休みの宿題
+- ミニゲームを１本完成させる
+  - 公開可能であること
+    - 全てのリソースが著作権的に問題がないこと
+    - 公序良俗に反しない
+    - 過度なエロ禁止
+    - 基準は、就職活動の時に使えるもの
+  - Unityの場合、AssetStoreを活用するとよい
+  - 著作権に問題がなければ、シナリオライターやその他プロジェクトを活用してもよい(Jokerスクリプトなど)
+  - プログラミングが厳しい人はこれを調べる > [プログラミングの必要なし！簡単にスマホアプリが開発できるツール9選](https://freelance.levtech.jp/guide/detail/38/?utm_content=bufferf4992&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- 夏休み明けにプレゼンテーションを行ってもらうので、パワーポイントなどの資料を作成しておく
+  - 持ち時間は一人10分
 
-
-## 課題(予定)「オプション(或いは分身)を作ってみよう」
+## 課題(時間があれば)「オプション(或いは分身)を作ってみよう」
 - マウスを動かすと、複数のラベルがマウスを追いかけるプログラムを作成する
 
 1. 新しくプロジェクトを作成(プロジェクト名：option)
@@ -58,25 +58,21 @@
 配列は無限に作ることはできません。上記の処理をずっと繰り返すには工夫が必要です。工夫の仕方を考えてみましょう。
 
 
-# 12回目(7/15)
-- 夏休みに向けて、企画を考える
-- [染谷翔 Unityスキルがなくても使える短期間ゲーム開発のポイント](https://speakerdeck.com/unitydojo/gemuziyamuyazu-ye-zhi-zuo-dui-ce-unitysukiruganakutemoshi-eruduan-qi-jian-gemukai-fa-falsepointo)
-- code.org
-
-## 夏休みの宿題
-- ミニゲームを１本完成させる
-  - 公開可能であること
-    - 全てのリソースが著作権的に問題がないこと
-    - 公序良俗に反しない
-    - 過度なエロ禁止
-    - 基準は、就職活動の時に使えるもの
-  - Unityの場合、AssetStoreを活用するとよい
-  - 著作権に問題がなければ、シナリオライターやその他プロジェクトを活用してもよい(Jokerスクリプトなど)
-  - プログラミングが厳しい人はこれを調べる > [プログラミングの必要なし！簡単にスマホアプリが開発できるツール9選](https://freelance.levtech.jp/guide/detail/38/?utm_content=bufferf4992&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- 夏休み明けにプレゼンテーションを行ってもらうので、パワーポイントなどの資料を作成しておく
-  - 持ち時間は一人10分
-
 ----
+
+# 11回目(7/8)
+- https://developer.nintendo.com/
+- [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160701.zip)
+  - 上記をプログラムで開く
+  - ウィンドウが開いたら、[ドキュメント]>Visual Studio 2015]>[Projects]フォルダーにドラッグ＆ドロップ
+  - 上書きしてよい
+  - 移動したフォルダー内の[yoketoru.sln]をダブルクリックして起動
+- ドキュメント
+  - [キャラクターの管理について](https://github.com/tanakaedu/yoketoru/wiki/0701%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E7%AE%A1%E7%90%86)
+  - [作業手順](https://github.com/tanakaedu/yoketoru/wiki/0701%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86)
+- Unity版
+  - \\LANDISK-A601\disk\2016年\学生用フォルダー\ゲームプログラム１年\yoketoru-unity に10回目のものがある
+  - [作業手順](https://github.com/tanakaedu/dat161-haru/wiki/0701yoketoru-unity%E3%81%AE%E4%BD%9C%E6%A5%AD%E6%89%8B%E9%A0%86)
 
 # 10回目(7/1)
 - [9回目に作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160624.zip)
