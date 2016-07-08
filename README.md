@@ -1,5 +1,9 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
+# 12回目(7/15)
+- [前回作ったもの]()
+- [前回の資料](https://github.com/tanakaedu/yoketoru/wiki/0708%E6%95%B5%E3%81%A8%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90)
+
 # 11回目(7/8)
 - https://developer.nintendo.com/
 - [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160701.zip)
