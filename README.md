@@ -1,18 +1,15 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # 12回目(7/15)
-## 前回の資料
-- [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160708.zip)
-- [前回の資料](https://github.com/tanakaedu/yoketoru/wiki/0708%E6%95%B5%E3%81%A8%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90)
-- Unity版
-  - \\LANDISK-A601\disk\2016年\学生用フォルダー\ゲームプログラム１年\yoketoru-unity に11回目のものがある
-  - [作業手順](https://github.com/tanakaedu/dat161-haru/wiki/0708%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%E7%A7%BB%E5%8B%95)
 
-## 今回の作業
-- Unity版のyoketoruを完成
-- 参考ページの紹介
-  - [ひよこのたまご](http://hiyotama.hatenablog.com/)
-  - code.org
+## 夏休みの教材
+- [Code.org](https://code.org/)
+  - プログラミング初心者の学習用サービス
+- [書籍]
+  - 吉谷 幹人(著) [Unity5 3D/2Dゲーム開発実践入門　作りながら覚えるスマートフォンゲーム開発](https://www.amazon.co.jp/Unity5-3D-2D%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80%E3%80%80%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E8%A6%9A%E3%81%88%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA-%E5%90%89%E8%B0%B7-%E5%B9%B9%E4%BA%BA/dp/4883379671/ref=sr_1_1?ie=UTF8&qid=1468501168&sr=8-1&keywords=unity3d)
+  - 荒川 巧也 (著), 浅野 祐一(著) [Unity5入門 最新開発環境による簡単3D&2Dゲーム制作](https://www.amazon.co.jp/Unity5%E5%85%A5%E9%96%80-%E6%9C%80%E6%96%B0%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AB%E3%82%88%E3%82%8B%E7%B0%A1%E5%8D%983D-2D%E3%82%B2%E3%83%BC%E3%83%A0%E5%88%B6%E4%BD%9C-%E8%8D%92%E5%B7%9D-%E5%B7%A7%E4%B9%9F/dp/4797384433/ref=sr_1_2?ie=UTF8&qid=1468501168&sr=8-2&keywords=unity3d)
+- [ひよこのたまご](http://hiyotama.hatenablog.com/)
+  - Unityの適度なサイズのチュートリアルがある。これをベースにしてもよい
 - 夏休みに向けて、企画を考える
   - [染谷翔 Unityスキルがなくても使える短期間ゲーム開発のポイント](https://speakerdeck.com/unitydojo/gemuziyamuyazu-ye-zhi-zuo-dui-ce-unitysukiruganakutemoshi-eruduan-qi-jian-gemukai-fa-falsepointo)
 
@@ -24,12 +21,24 @@
     - 過度なエロ禁止
     - 基準は、就職活動の時に使えるもの
   - Unityの場合、AssetStoreを活用するとよい
-  - 著作権に問題がなければ、シナリオライターやその他プロジェクトを活用してもよい(Jokerスクリプトなど)
+  - 著作権に問題がなければ、シナリオライターやその他プロジェクトを活用してもよい([Jokerスクリプト](http://jokerscript.jp/)など)
   - プログラミングが厳しい人はこれを調べる > [プログラミングの必要なし！簡単にスマホアプリが開発できるツール9選](https://freelance.levtech.jp/guide/detail/38/?utm_content=bufferf4992&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - 夏休み明けにプレゼンテーションを行ってもらうので、パワーポイントなどの資料を作成しておく
   - 持ち時間は一人10分
 
-## 課題(時間があれば)「オプション(或いは分身)を作ってみよう」
+## 前回の資料
+- [前回作ったもの](https://github.com/tanakaedu/yoketoru/archive/ver160708.zip)
+- [前回の資料](https://github.com/tanakaedu/yoketoru/wiki/0708%E6%95%B5%E3%81%A8%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90)
+- Unity版
+  - \\LANDISK-A601\disk\2016年\学生用フォルダー\ゲームプログラム１年\yoketoru-unity に11回目のものがある
+  - [作業手順](https://github.com/tanakaedu/dat161-haru/wiki/0708%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%AE%E7%A7%BB%E5%8B%95)
+
+## 今回の作業
+- Unity版のyoketoruを完成
+
+---
+
+## 夏休み明け課題(時間があれば)「オプション(或いは分身)を作ってみよう」
 - マウスを動かすと、複数のラベルがマウスを追いかけるプログラムを作成する
 
 1. 新しくプロジェクトを作成(プロジェクト名：option)
