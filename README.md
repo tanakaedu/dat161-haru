@@ -3,6 +3,8 @@
 # 講義で未完だったyoketoru-unityの続き
 - [当たり判定](https://github.com/tanakaedu/dat161-haru/wiki/0715_2_%E5%BD%93%E3%81%9F%E3%82%8A%E5%88%A4%E5%AE%9A)
 
+# 就活に向けての記事
+- [paiza ITエンジニア・プログラマを目指す就活で押さえるべきポイント](http://paiza.jp/advice/student_advice)
 
 # 12回目(7/15)
 
